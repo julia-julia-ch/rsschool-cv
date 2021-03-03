@@ -13,6 +13,10 @@ I'm a begginer in IT sphere. But I have a lot of desire to study something new.
 
 I have just started my IT education.
 
+## Education
+
+Moscow State Open University, Management
+
 ## Code sample
 
 `no code yet`
