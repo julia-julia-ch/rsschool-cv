@@ -7,7 +7,7 @@
 
 ## About myself
 
-I'm a begginer in IT sphere. But I have a lot of desire to study something new.
+I'm a begginer in IT sphere. But I have a lot of desire to study something new. I'm interested in psychology, design, self-development.
 
 ## Skills
 
